@@ -1,11 +1,4 @@
 # Lafactory-Inc.-Internship
-Contains projects completed during Lafactory, Inc. internship Jul 2021 - Sep 2021
-<!-- PROJECT TITLE -->
-  <h1 align="center">iShaer-app</h1>
- <h2 2 align="center">
-    instagram clone
-    <br />
-    </h2>
 
 ## Application Description
 Contains projects completed during Lafactory, Inc. internship Jul 2021 - Sep 2021
